@@ -1,7 +1,7 @@
 'use strict';
 
 
-let number = number(prompt("Enter your number"));
+let number = Number(prompt("Enter your number"));
 
 if (number % 2 === 0) {
     console.log("This number is even");
