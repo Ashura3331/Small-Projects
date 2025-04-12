@@ -7,7 +7,7 @@ let number = Number(prompt("Enter your number"));
 
 // }else if (number >= 80 && number <90) {
 
-    console.log("You have got an A+🎊🎉!");
+    // console.log("You have got an A+🎊🎉!");
 }else if(number >= 70 && number < 80) {
     console.log("You have got an A🎊🎉");
 }else if(number >= 60 && number < 70) {
