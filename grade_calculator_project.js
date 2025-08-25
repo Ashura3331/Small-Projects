@@ -1,6 +1,6 @@
 'use strict'
 
-// let number = Number(prompt("Enter your number"));
+let number = Number(prompt("Enter your number"));
 
 // if (number >= 90 && number <=100) {
     // console.log("You have got an A++!🎊🎉");
